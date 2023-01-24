@@ -1,0 +1,5 @@
+Links to images used in the program:
+<a href="https://www.flaticon.com/free-icons/gold" title="gold icons">Gold icons created by DinosoftLabs - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/fountain" title="fountain icons">Fountain icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/material" title="material icons">Material icons created by Uniconlabs - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/oil" title="oil icons">Oil icons created by Flat Icons - Flaticon</a>

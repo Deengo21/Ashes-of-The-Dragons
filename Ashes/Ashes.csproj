@@ -1,0 +1,105 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<None Remove="Images\Character\Knight.png" />
+		<None Remove="Images\Character\Peasant.png" />
+		<None Remove="Images\Character\Sorcerer.png" />
+		<None Remove="Images\Character\Shaman.png" />
+		<None Remove="Images\Character\Alchemist.png" />
+		<None Remove="Images\Character\Bouncer.png" />
+		<None Remove="Images\Character\Dragon.png" />
+		<None Remove="Images\Character\Harlequin.png" />
+		<None Remove="Images\Character\Jester.png" />
+		<None Remove="Images\Character\Juggler.png" />
+		<None Remove="Images\Character\Merchant.png" />
+		<None Remove="Images\Character\Ninja.png" />
+		<None Remove="Images\Character\Raconteur.png" />
+		<None Remove="Images\Character\Ram.png" />
+		<None Remove="Images\Character\Saper.png" />
+		<None Remove="Images\Character\Sheikh.png" />
+		<None Remove="Images\FieldBackground.png" />
+		<None Remove="Images\Resource\Gold.png" />
+		<None Remove="Images\Resource\LifeFountain.png" />
+		<None Remove="Images\Resource\grain.png" />
+		<None Remove="Images\Resource\OilBarrel.png" />
+		<None Remove="Images\Resource\Steel.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Content Include="Images\Character\Knight.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Images\Character\Peasant.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Images\Character\Sorcerer.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Images\Character\Shaman.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Images\Character\Alchemist.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Images\Character\Bouncer.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Images\Character\Dragon.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Images\Character\Harlequin.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Images\Character\Jester.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Images\Character\Juggler.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Images\Character\Merchant.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Images\Character\Ninja.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Images\Character\Raconteur.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Images\Character\Ram.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Images\Character\Saper.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Images\Character\Sheikh.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		
+		<Content Include="Images\FieldBackground.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Images\Resource\Gold.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Images\Resource\LifeFountain.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Images\Resource\Grain.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Images\Resource\OilBarrel.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Images\Resource\Steel.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+	</ItemGroup>
+
+</Project>
